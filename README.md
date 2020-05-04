@@ -46,4 +46,4 @@ pip install -r requirements.txt
 
 程序主入口为`main.py`
 
-👉 使用教程请参看Wiki
+👉 [使用教程请参看Wiki](https://github.com/Mr-Wang119/jd-reserve-flash-sale/wiki/京东预约抢购助手用法)
